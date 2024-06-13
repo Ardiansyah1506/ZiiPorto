@@ -55,7 +55,7 @@ function AboutCard() {
               <span className="me-auto">PPATQ Raudlatul Falah</span> 
             <div className="d-flex gap-2 align-items-center justify-content-center mt-2">
               <a href="https://github.com/Ardiansyah1506/landing-page-ppatq-rf" className="py-1 px-2 rounded border h6 text-decoration-none bg-purple text-white">Code</a>
-              <a href="https://paptq-rf.id" className="py-1 px-2 rounded border h6 text-decoration-none bg-secondary text-white">Demo</a>
+              <a href="https://ppatq-rf.id" className="py-1 px-2 rounded border h6 text-decoration-none bg-secondary text-white">Demo</a>
             </div>
             </div>
             </li>
